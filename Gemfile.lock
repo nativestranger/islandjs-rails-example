@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Praxis-Emergent/islandjs-rails.git
-  revision: 12e10a6382cddf9118c34c155cbb98106f5063cb
+  revision: f676fe49aa6338d39ebcd7f414c3bd85b1a6ff61
   branch: udpates
   specs:
     islandjs-rails (0.1.0)
