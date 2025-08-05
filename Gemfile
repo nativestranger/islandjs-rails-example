@@ -28,6 +28,8 @@ gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
 
+gem "islandjs-rails", git:  "https://github.com/Praxis-Emergent/islandjs-rails.git", branch: "udpates"
+
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 

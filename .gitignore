@@ -32,3 +32,10 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# IslandJS: Node.js dependencies
+/node_modules
+
+# IslandJS: Track webpack bundles for deployment
+!/public/islands_manifest.json
+!/public/islands_bundle.js

@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/Praxis-Emergent/islandjs-rails.git
+  revision: 12e10a6382cddf9118c34c155cbb98106f5063cb
+  branch: udpates
+  specs:
+    islandjs-rails (0.1.0)
+      rails (>= 7.0)
+      thor (~> 1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -368,6 +377,7 @@ DEPENDENCIES
   capybara
   debug
   importmap-rails
+  islandjs-rails!
   jbuilder
   kamal
   propshaft
